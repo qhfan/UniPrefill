@@ -78,11 +78,11 @@ UniPrefill's modifications to the vLLM codebase are minimal and well-contained. 
 If you find UniPrefill useful in your research, please cite our paper:
 
 ~~~bibtex
-@article{uniprefill2025,
+@article{uniprefill2026,
   title     = {UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification},
-  author    = {Your Name and Collaborators},
-  journal   = {arXiv preprint arXiv:XXXX.XXXXX},
-  year      = {2025}
+  author    = {Qihang Fan, Huaibo Huang, Zhiying Wu, Bingning Wang, Ran He},
+  journal   = {arXiv preprint arXiv:2605.06221},
+  year      = {2026}
 }
 ~~~
 
